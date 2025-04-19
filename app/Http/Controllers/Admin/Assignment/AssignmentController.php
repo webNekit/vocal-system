@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Admin\Assignment;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Assignment\StoreAssignmentRequest;
 use App\Http\Requests\Assignment\UpdateAssignmentRequest;
-use App\Models\assignment;
+use App\Models\Assignment;
 use App\Tables\Assignments;
 use Illuminate\Http\Request;
 use ProtoneMedia\Splade\FormBuilder\Select;
